@@ -68,6 +68,12 @@ The community-maintained `astroquery` library exposes MAST via a Pythonic interf
 
 The **Interactive Spectral-Line Analysis Tool**, developed by the SpExoDisks collaboration. iSLAT provides an interactive GUI for identifying and fitting molecular emission lines in mid-infrared spectra, with built-in LTE slab models for common species (H₂O, CO, OH, CO₂, HCN, C₂H₂, organics). It is particularly well suited to **MIRI MRS spectra of protoplanetary disks and other warm molecular environments**, where the dense forest of ro-vibrational lines makes by-eye identification impractical. Line lists are taken from HITRAN and complementary databases.
 
+### DuCKLinG
+
+<https://github.com/tillkaeufer/DuCKLinG>
+
+**DuCKLinG** (Dust Continuum Kit with Line emission from Gas) fits the dust continuum and molecular slab-model line emission *simultaneously* in a single forward model, rather than continuum-subtracting first and fitting slab models afterwards. This is particularly relevant for **MIRI MRS spectra of protoplanetary disks** where the silicate feature and the molecular line forest overlap in wavelength and the inferred slab parameters can depend sensitively on how the continuum was drawn. A natural next step beyond the iSLAT-style "subtract continuum, then fit lines" workflow when you want statistically defensible parameter posteriors that account for continuum/line degeneracies.
+
 ### NIST Atomic Spectra Database
 
 <https://physics.nist.gov/PhysRefData/ASD/lines_form.html>

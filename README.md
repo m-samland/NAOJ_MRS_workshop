@@ -1,5 +1,7 @@
 # NAOJ MIRI MRS Workshop
 
+日本語版: [README_ja.md](README_ja.md)
+
 Materials for a one-day hands-on workshop on **JWST MIRI MRS data analysis**, taught by Matthias Samland at NAOJ (National Astronomical Observatory of Japan).
 
 The workshop walks participants through the practical end-to-end workflow for working with JWST Mid-Infrared Instrument Medium-Resolution Spectrometer (MIRI MRS) integral-field data — from environment setup, through running the calibration pipeline, to scientific analysis of molecular lines and extended emission.
@@ -77,7 +79,9 @@ The hands-on session is built around a single linear workflow that takes you fro
 
 ### Step 2. Inspect the data in CARTA
 
-- Open the `*_s3d.fits` cubes in CARTA to confirm how the data looks: source centred in roughly in the FOV, no obvious artefacts. Go to Widgets -> Profiles and select "Spectral Profiler" to get a spectrum when you hover over the image.
+- Open the `*_s3d.fits` cubes in CARTA to confirm how the data looks: source centred in roughly in the FOV, no obvious artefacts. Go to Widgets -> Profiles and select "Spectral Profiler" to get a spectrum when you hover over the image (or go to View -> Layout -> Cube Analysis to get a default layout for 3D cubes).
+- Adjust image scale in the bottom left inspector to make all the structure in the image visible
+- Go through the spectral channels and see how the image and PSF changes
 - Look for science features already visible by eye: molecular line forests, atomic lines (e.g. [Ne II], [Ar II]), the broad silicate feature around 10 µm, extended emission around the central source.
 - This is also a good moment to get a feel for the wavelength coverage of each MRS sub-band (1A → 4C) and how they tile in wavelength.
 

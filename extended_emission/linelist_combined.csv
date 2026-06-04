@@ -1,0 +1,444 @@
+,name,wavelength,line,type,diagnostic,transition,A_ul,E_u,Unnamed: 5,E_l (cm-1),Reference,elambda,ep,ip
+53,HI 7-3,1.0052128,yes,hydrogen,,,,,,,,,,
+54,HI 6-3,1.094109,yes,hydrogen,,,,,,,,,,
+55,HI 5-3,1.2821587,yes,hydrogen,,,,,,,,,,
+56,HI 25-4,1.4971425,yes,hydrogen,,,,,,,,,,
+57,HI 24-4,1.5004961,yes,hydrogen,,,,,,,,,,
+58,HI 23-4,1.5043147,yes,hydrogen,,,,,,,,,,
+59,HI 22-4,1.5086896,yes,hydrogen,,,,,,,,,,
+60,HI 21-4,1.5137357,yes,hydrogen,,,,,,,,,,
+61,HI 20-4,1.5195996,yes,hydrogen,,,,,,,,,,
+62,HI 19-4,1.5264708,yes,hydrogen,,,,,,,,,,
+63,HI 18-4,1.5345982,yes,hydrogen,,,,,,,,,,
+64,HI 17-4,1.5443139,yes,hydrogen,,,,,,,,,,
+65,HI 16-4,1.5560699,yes,hydrogen,,,,,,,,,,
+66,HI 15-4,1.5704952,yes,hydrogen,,,,,,,,,,
+67,HI 14-4,1.588488,yes,hydrogen,,,,,,,,,,
+68,HI 13-4,1.6113714,yes,hydrogen,,,,,,,,,,
+69,HI 12-4,1.6411674,yes,hydrogen,,,,,,,,,,
+70,HI 11-4,1.6811111,yes,hydrogen,,,,,,,,,,
+71,HI 10-4,1.736685,yes,hydrogen,,,,,,,,,,
+72,HI 9-4,1.8179084,yes,hydrogen,,,,,,,,,,
+73,HI 4-3,1.8756133,yes,hydrogen,,,,,,,,,,
+74,HI 8-4,1.9450871,yes,hydrogen,,,,,,,,,,
+310,[SiVI],1.96341,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.0001,166.77,205.05
+75,HI 7-4,2.1661196,yes,hydrogen,,,,,,,,,,
+76,HI 25-5,2.374377,yes,hydrogen,,,,,,,,,,
+77,HI 24-5,2.382823,yes,hydrogen,,,,,,,,,,
+78,HI 23-5,2.3924675,yes,hydrogen,,,,,,,,,,
+79,HI 22-5,2.4035523,yes,hydrogen,,,,,,,,,,
+80,HI 21-5,2.4163852,yes,hydrogen,,,,,,,,,,
+81,HI 20-5,2.431362,yes,hydrogen,,,,,,,,,,
+82,HI 19-5,2.4490002,yes,hydrogen,,,,,,,,,,
+83,HI 18-5,2.4699873,yes,hydrogen,,,,,,,,,,
+311,[SiVII],2.48334,yes,fine_structure,,3P1-3P2,,,,,,0.0001,205.05,246.52
+84,HI 17-5,2.4952543,yes,hydrogen,,,,,,,,,,
+85,HI 16-5,2.5260903,yes,hydrogen,,,,,,,,,,
+86,HI 15-5,2.564327,yes,hydrogen,,,,,,,,,,
+312,[SiIX],2.58423,yes,fine_structure,,3P2-3P1,,,,,,0.00023,303.17,351.1
+87,HI 14-5,2.6126477,yes,hydrogen,,,,,,,,,,
+88,HI 6-4,2.6258672,yes,hydrogen,,,,,,,,,,
+89,HI 13-5,2.6751312,yes,hydrogen,,,,,,,,,,
+90,HI 12-5,2.7582677,yes,hydrogen,,,,,,,,,,
+91,HI 11-5,2.8729959,yes,hydrogen,,,,,,,,,,
+313,[AlV],2.90519,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.00037,120.0,153.83
+28,H2O,2.9273,,molecular,,15_115 to 16_116,49.0,8744.0,,,,,,
+29,H2O,2.9278,,molecular,,12_39 to 13_310,52.0,8388.0,,,,,,
+30,H2O,2.9291,,molecular,,13_311 to 14_312,48.0,8583.0,,,,,,
+31,H2O,2.9292,,molecular,,14_113 to 15_114,49.0,8698.0,,,,,,
+45,OH,2.9343,,molecular,,3/2 P4.5e,11.7,5400.0,,,,,,
+46,OH,2.9346,,molecular,,3/2 P4.5f,11.7,5400.0,,,,,,
+314,[CoII],2.9846,yes,fine_structure,,a5F5-a3F4,,,,,,0.0001,7.86,17.08
+315,[MgVIII],3.02795,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.00025,224.95,265.96
+92,HI 10-5,3.0392023,yes,hydrogen,,,,,,,,,,
+316,[NiI],3.12,yes,fine_structure,,a1D2-a3D3,,,,,,0.0001,0.0,7.64
+317,[KVII],3.19053,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.00015,99.4,117.56
+318,[CaIV],3.20671,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.00015,50.91,67.27
+93,HI 9-5,3.2969917,yes,hydrogen,,,,,,,,,,
+94,HI 25-6,3.4829594,yes,hydrogen,,,,,,,,,,
+95,HI 24-6,3.5011637,yes,hydrogen,,,,,,,,,,
+96,HI 23-6,3.5220251,yes,hydrogen,,,,,,,,,,
+97,HI 22-6,3.5461005,yes,hydrogen,,,,,,,,,,
+98,HI 21-6,3.5741046,yes,hydrogen,,,,,,,,,,
+99,HI 20-6,3.606968,yes,hydrogen,,,,,,,,,,
+100,HI 19-6,3.6459233,yes,hydrogen,,,,,,,,,,
+319,[AlVI],3.65971,yes,fine_structure,,3P1-3P2,,,,,,0.00062,153.83,190.48
+320,[AlVIII],3.69,yes,fine_structure,,3P2-3P1,,,,,,0.014,241.44,284.6
+101,HI 18-6,3.6926335,yes,hydrogen,,,,,,,,,,
+102,HI 8-5,3.7405565,yes,hydrogen,,,,,,,,,,
+103,HI 17-6,3.7493933,yes,hydrogen,,,,,,,,,,
+104,HI 16-6,3.8194512,yes,hydrogen,,,,,,,,,,
+105,HI 15-6,3.9075486,yes,hydrogen,,,,,,,,,,
+321,[SiIX],3.9357,yes,fine_structure,,3P1-3P0,,,,,,0.0004,303.17,351.1
+322,[NiI],3.9524,yes,fine_structure,,a1D2-a3D2,,,,,,0.0001,0.0,7.64
+106,HI 14-6,4.0208675,yes,hydrogen,,,,,,,,,,
+107,HI 5-4,4.0522623,yes,hydrogen,,,,,,,,,,
+323,[FeII],4.076319,yes,fine_structure,,a4F5/2-a6D7/2,,,,,,4e-06,7.9,16.19
+324,[FeII],4.081906,yes,fine_structure,,a4F3/2-a6D5/2,,,,,,4e-06,7.9,16.19
+325,[CaVII],4.0858,yes,fine_structure,,3P2-3P1,,,,,,0.0012,108.78,127.2
+326,[FeII],4.11499,yes,fine_structure,,a4F7/2-a6D9/2,,,,,,5e-06,7.9,16.19
+327,[CaV],4.15937,yes,fine_structure,,3P1-3P2,,,,,,0.00062,67.27,84.5
+108,HI 13-6,4.170794,yes,hydrogen,,,,,,,,,,
+275,"H2 (0,0) S(11)",4.1813,,molecular,,"(0,0) S(11)",,,,7148.71,Jennings et al. 1985 constants,,,
+109,HI 12-6,4.3764544,yes,hydrogen,,,,,,,,,,
+276,"H2 (0,0) S(10)",4.4099,,molecular,,"(0,0) S(10)",,,,6039.15,Jennings et al. 1985 constants,,,
+328,[FeII],4.434839,yes,fine_structure,,a4F3/2-a6D3/2,,,,,,7e-06,7.9,16.19
+329,[MgIV],4.48668,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.0003,80.14,109.24
+330,[ArVI],4.52952,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.00031,75.02,91.01
+331,[FeII],4.607664,yes,fine_structure,,a4F5/2-a6D5/2,,,,,,5e-06,7.9,16.19
+332,[KIII],4.61802,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.00047,31.63,45.8
+110,HI 7-5,4.6537781,yes,hydrogen,,,,,,,,,,
+333,[FeII],4.671945,yes,fine_structure,,a4F3/2-a6D1/2,,,,,,5e-06,7.9,16.19
+111,HI 11-6,4.6725087,yes,hydrogen,,,,,,,,,,
+334,[NaVII],4.68472,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.00033,172.15,208.44
+277,"H2 (0,0) S(9)",4.69461,,molecular,,"(0,0) S(9)",,,,5005.73,Jennings et al. 1987,,,
+51,CO,4.7545,,molecular,,v = 1 - 0 P10,17.3,3300.0,,,,,,
+52,CO,4.7589,,molecular,,v = 2 - 1 P4,37.4,6160.0,,,,,,
+112,HI 25-7,4.8476918,yes,hydrogen,,,,,,,,,,
+113,HI 24-7,4.8830294,yes,hydrogen,,,,,,,,,,
+335,[FeII],4.889137,yes,fine_structure,,a4F7/2-a6D7/2,,,,,,5e-06,7.9,16.19
+114,HI 23-7,4.9237036,yes,hydrogen,,,,,,,,,,
+115,HI 22-7,4.9708833,yes,hydrogen,,,,,,,,,,
+116,HI 21-7,5.0260868,yes,hydrogen,,,,,,,,,,
+278,"H2 (0,0) S(8)",5.05303,,molecular,,"(0,0) S(8)",,,,4053.51,Jennings et al. 1987,,,
+336,[FeII],5.06235,yes,fine_structure,,a4F5/2-a6D3/2,,,,,,1e-05,7.9,16.19
+117,HI 20-7,5.0913193,yes,hydrogen,,,,,,,,,,
+118,HI 10-6,5.1286575,yes,hydrogen,,,,,,,,,,
+119,HI 19-7,5.1692801,yes,hydrogen,,,,,,,,,,
+120,HI 18-7,5.2636836,yes,hydrogen,,,,,,,,,,
+337,[FeII],5.340169,yes,fine_structure,,a4F9/2-a6D9/2,,,,,,9e-06,7.9,16.19
+121,HI 17-7,5.3797743,yes,hydrogen,,,,,,,,,,
+338,[MgVII],5.5032,yes,fine_structure,,3P2-3P1,,,,,,0.0012,186.51,224.95
+279,"H2 (0,0) S(7)",5.51116,,molecular,,"(0,0) S(7)",,,,3188.05,Jennings et al. 1987,,,
+122,HI 16-7,5.5251882,yes,hydrogen,,,,,,,,,,
+339,[KVI],5.575,yes,fine_structure,,3P2-3P1,,,,,,0.004,82.66,99.4
+340,[MgV],5.60985,yes,fine_structure,,3P1-3P2,,,,,,0.00063,109.24,141.27
+341,[FeII],5.673905,yes,fine_structure,,a4F7/2-a6D5/2,,,,,,8e-06,7.9,16.19
+123,HI 15-7,5.7114622,yes,hydrogen,,,,,,,,,,
+342,[AlVIII],5.85,yes,fine_structure,,3P1-3P0,,,,,,0.04,241.44,284.6
+343,[NiI],5.8933,yes,fine_structure,,a1D2-a3D1,,,,,,0.0001,0.0,7.64
+124,HI 9-6,5.9082134,yes,hydrogen,,,,,,,,,,
+125,HI 14-7,5.9568435,yes,hydrogen,,,,,,,,,,
+344,[KIV],5.982,yes,fine_structure,,3P1-3P2,,,,,,0.0012,45.8,60.91
+16,H2O ice,6.0,no,special,Bulk of ice,,,,,,,,,
+280,"H2 (0,0) S(6)",6.10856,,molecular,,"(0,0) S(6)",,,,2415.08,Jennings et al. 1987,,,
+345,[CaVII],6.154,yes,fine_structure,,3P1-3P0,,,,,,0.008,108.78,127.2
+17,PAH/UV radiation,6.2,no,special, carbonaceous material,,,,,,,,,
+126,HI 13-7,6.291916,yes,hydrogen,,,,,,,,,,
+346,[SiVII],6.4922,yes,fine_structure,,3P0-3P1,,,,,,0.0011,205.05,246.52
+127,HI 25-8,6.5009774,yes,hydrogen,,,,,,,,,,
+128,HI 24-8,6.5646869,yes,hydrogen,,,,,,,,,,
+347,[NiII],6.636,yes,fine_structure,,2D3/2-2D5/2,,,,,,0.0003,7.64,18.17
+129,HI 23-8,6.6384122,yes,hydrogen,,,,,,,,,,
+348,[ClV],6.70667,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.00062,53.46,67.82
+349,[FeII],6.721283,yes,fine_structure,,a4F9/2-a6D7/2,,,,,,1.1e-05,7.9,16.19
+130,HI 22-8,6.7244623,yes,hydrogen,,,,,,,,,,
+131,HI 12-7,6.7719906,yes,hydrogen,,,,,,,,,,
+18,Unidentified ice,6.8,no,special,Processed ices (UV/cosmic ray),,,,,,,,,
+132,HI 21-8,6.8258813,yes,hydrogen,,,,,,,,,,
+281,"H2 (0,0) S(5)",6.90952,,molecular,,"(0,0) S(5)",,,,1740.24,Jennings et al. 1987,,,
+133,HI 20-8,6.9467586,yes,hydrogen,,,,,,,,,,
+350,[ArII],6.985274,yes,fine_structure,,2P1/2-2P3/2,,,,,,3e-06,15.76,27.63
+134,HI 19-8,7.0927107,yes,hydrogen,,,,,,,,,,
+135,HI 18-8,7.2716531,yes,hydrogen,,,,,,,,,,
+351,[NaIII],7.3177,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.0012,47.29,71.62
+136,HI 6-5,7.4598577,yes,hydrogen,,,,,,,,,,
+137,HI 17-8,7.4950894,yes,hydrogen,,,,,,,,,,
+138,HI 8-6,7.5024932,yes,hydrogen,,,,,,,,,,
+352,[NiI],7.5067,yes,fine_structure,,a3F3-a3F4,,,,,,0.0002,0.0,7.64
+139,HI 11-7,7.5081049,yes,hydrogen,,,,,,,,,,
+353,[NeVI],7.6524,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.0012,126.21,157.93
+19,CH4 ice,7.7,no,special,Building organics/solar system,,,,,,,,,
+140,HI 16-8,7.7803696,yes,hydrogen,,,,,,,,,,
+354,[FeVII],7.8145,yes,fine_structure,,3F4-3F3,,,,,,0.0012,99.1,124.98
+355,[ArV],7.9016,yes,fine_structure,,3P2-3P1,,,,,,0.0002,59.81,75.02
+282,"H2 (0,0) S(4)",8.02505,,molecular,,"(0,0) S(4)",,,,1168.81,Jennings et al. 1987,,,
+141,HI 15-8,8.1548905,yes,hydrogen,,,,,,,,,,
+142,HI 25-9,8.4849202,yes,hydrogen,,,,,,,,,,
+143,HI 24-9,8.5937739,yes,hydrogen,,,,,,,,,,
+20,PAH,8.6,no,special,UV radiation/carbonaceous material,,,,,,,,,
+356,[NaVI],8.61059,yes,fine_structure,,3P2-3P1,,,,,,0.00088,138.39,172.15
+144,HI 14-8,8.6645026,yes,hydrogen,,,,,,,,,,
+145,HI 23-9,8.7205585,yes,hydrogen,,,,,,,,,,
+146,HI 10-7,8.7600642,yes,hydrogen,,,,,,,,,,
+357,[KVI],8.8299,yes,fine_structure,,3P1-3P0,,,,,,0.0002,82.66,99.4
+147,HI 22-9,8.8696597,yes,hydrogen,,,,,,,,,,
+358,[ArIII],8.99138,yes,fine_structure,,3P1-3P2,,,,,,0.00012,27.63,40.74
+359,[MgVII],9.009,yes,fine_structure,,3P1-3P0,,,,,,0.0004,186.51,224.95
+360,[NaIV],9.041,yes,fine_structure,,3P1-3P2,,,,,,0.001,71.62,98.91
+148,HI 21-9,9.0469612,yes,hydrogen,,,,,,,,,,
+361,[AlVI],9.116,yes,fine_structure,,3P0-3P1,,,,,,0.008,153.83,190.48
+149,HI 20-9,9.2605322,yes,hydrogen,,,,,,,,,,
+150,HI 13-8,9.3920177,yes,hydrogen,,,,,,,,,,
+151,HI 19-9,9.5217289,yes,hydrogen,,,,,,,,,,
+362,[FeVII],9.5267,yes,fine_structure,,3F3-3F2,,,,,,0.0011,99.1,124.98
+283,"H2 (0,0) S(3)",9.66491,,molecular,,"(0,0) S(3)",,,,705.52,Jennings et al. 1987,,,
+152,HI 18-9,9.8470326,yes,hydrogen,,,,,,,,,,
+153,HI 17-9,10.261271,yes,hydrogen,,,,,,,,,,
+154,HI 12-8,10.503499,yes,hydrogen,,,,,,,,,,
+363,[SIV],10.5105,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.0001,34.79,47.22
+364,[CoII],10.521,yes,fine_structure,,a3F3-a3F4,,,,,,0.001,7.86,17.08
+365,[NiII],10.6822,yes,fine_structure,,4F7/2-4F9/2,,,,,,0.0008,7.64,18.17
+155,HI 16-9,10.803602,yes,hydrogen,,,,,,,,,,
+0,OH,10.809,yes,special,,,,,,,,,,
+156,HI 25-10,10.854315,yes,hydrogen,,,,,,,,,,
+157,HI 24-10,11.033092,yes,hydrogen,,,,,,,,,,
+1,OH,11.077,yes,special,,,,,,,,,,
+158,HI 23-10,11.242945,yes,hydrogen,,,,,,,,,,
+22,PAH,11.3,no,special,UV radiation/carbonaceous material,,,,,,,,,
+21,Mg2SiO4,11.3,no,special,Crystalline silicates/heating,,,,,,,,,
+366,[NiI],11.3075,yes,fine_structure,,a3F2-a3F3,,,,,,0.0002,0.0,7.64
+159,HI 9-7,11.308695,yes,hydrogen,,,,,,,,,,
+367,[ClI],11.333347,yes,fine_structure,,2P1/2-2P3/2,,,,,,1.5e-05,0.0,12.97
+368,[CaV],11.482,yes,fine_structure,,3P0-3P1,,,,,,0.019,67.27,84.5
+160,HI 22-10,11.492006,yes,hydrogen,,,,,,,,,,
+161,HI 15-9,11.539492,yes,hydrogen,,,,,,,,,,
+284,"HD (0,0) R(10)",11.57346,,molecular,,"(0,0) R(10)",,,,4627.07,Ulivi et al. 1991,,,
+2,OH,11.609,yes,special,,,,,,,,,,
+369,[ClIV],11.7619,yes,fine_structure,,3P2-3P1,,,,,,0.0011,39.61,53.46
+162,HI 21-10,11.791415,yes,hydrogen,,,,,,,,,,
+370,[CoIII],11.89,yes,fine_structure,,a4F7/2-a4F9/2,,,,,,0.01,17.08,33.5
+3,OH,11.922,yes,special,,,,,,,,,,
+371,[NiI],12.001,yes,fine_structure,,a3D1-a3D2,,,,,,0.0003,0.0,7.64
+12,HCO+,12.064,yes,special,,,,,,,,,,
+163,HI 20-10,12.156833,yes,hydrogen,,,,,,,,,,
+372,[CoI],12.255,yes,fine_structure,,a4F7/2-a4F9/2,,,,,,0.002,0.0,7.86
+285,"H2 (0,0) S(2)",12.27861,,molecular,,"(0,0) S(2)",,,,354.37,Jennings et al. 1987,,,
+164,HI 7-6,12.371898,yes,hydrogen,,,,,,,,,,
+165,HI 11-8,12.387168,yes,hydrogen,,,,,,,,,,
+32,H2O,12.396,,molecular,,17_413 to 16_314,7.7,5781.0,,,,,,
+33,H2O,12.407,,molecular,,16_313 to 15_214,4.2,4945.0,,,,,,
+34,H2O,12.454,,molecular,,13_76 to 12_49,1.2,4213.0,,,,,,
+286,"HD (0,0) R(9)",12.47181,,molecular,,"(0,0) R(9)",,,,3825.27,Ulivi et al. 1991,,,
+35,H2O,12.519,,molecular,,15_1213 to 14_114,1.5,4133.0,,,,,,
+166,HI 14-9,12.587077,yes,hydrogen,,,,,,,,,,
+36,H2O,12.596,,molecular,,13_67 to 12_310,0.8,3966.0,,,,,,
+167,HI 19-10,12.610967,yes,hydrogen,,,,,,,,,,
+47,OH,12.647,,molecular,,1/2 R22.5ef,213.0,15100.0,,,,,,
+48,OH,12.657,,molecular,,3/2 R23.5ef,213.0,15100.0,,,,,,
+4,OH,12.663,yes,special,,,,,,,,,,
+373,[NiII],12.7288,yes,fine_structure,,4F5/2-4F7/2,,,,,,0.0012,7.64,18.17
+374,[NeII],12.81355,yes,fine_structure,,2P1/2-2P3/2,,,,,,2e-05,21.56,40.96
+5,OH,13.069,yes,special,,,,,,,,,,
+375,[ArV],13.1022,yes,fine_structure,,3P1-3P0,,,,,,0.0002,59.81,75.02
+168,HI 18-10,13.187993,yes,hydrogen,,,,,,,,,,
+376,[FV],13.432,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.009,87.14,114.24
+377,[MgV],13.5213,yes,fine_structure,,3P0-3P1,,,,,,0.0002,109.24,141.27
+6,OH,13.541,yes,special,,,,,,,,,,
+287,"HD (0,0) R(8)",13.59265,,molecular,,"(0,0) R(8)",,,,3089.58,Ulivi et al. 1991,,,
+169,HI 25-11,13.680961,yes,hydrogen,,,,,,,,,,
+170,HI 17-10,13.941764,yes,hydrogen,,,,,,,,,,
+171,HI 24-11,13.966199,yes,hydrogen,,,,,,,,,,
+7,OH,14.074,yes,special,,,,,,,,,,
+172,HI 13-9,14.183084,yes,hydrogen,,,,,,,,,,
+173,HI 23-11,14.304169,yes,hydrogen,,,,,,,,,,
+378,[NeV],14.3217,yes,fine_structure,,3P2-3P1,,,,,,0.0002,97.12,126.21
+379,[ClII],14.3678,yes,fine_structure,,3P1-3P2,,,,,,0.0008,12.97,23.81
+380,[NaVI],14.3964,yes,fine_structure,,3P1-3P0,,,,,,0.0021,138.39,172.15
+8,OH,14.645,yes,special,,,,,,,,,,
+174,HI 22-11,14.709769,yes,hydrogen,,,,,,,,,,
+381,[CoII],14.74,yes,fine_structure,,a5F4-a5F5,,,,,,0.002,7.86,17.08
+382,[NiI],14.8142,yes,fine_structure,,a3D2-a3D3,,,,,,0.0003,0.0,7.64
+175,HI 16-10,14.962256,yes,hydrogen,,,,,,,,,,
+13,CO2,14.974,yes,special,,,,,,,,,,
+383,[CoI],15.155,yes,fine_structure,,b4F7/2-b4F9/2,,,,,,0.002,0.0,7.86
+23,CO2 ice,15.2,no,special,thermal history,,,,,,,,,
+176,HI 21-11,15.203926,yes,hydrogen,,,,,,,,,,
+288,"HD (0,0) R(7)",15.25104,,molecular,,"(0,0) R(7)",,,,2423.88,Ulivi et al. 1991,,,
+9,OH,15.302,yes,special,,,,,,,,,,
+384,[KIV],15.39,yes,fine_structure,,3P0-3P1,,,,,,0.03,45.8,60.91
+385,[CoII],15.46,yes,fine_structure,,a3F2-a3F3,,,,,,0.002,7.86,17.08
+386,[NeIII],15.5551,yes,fine_structure,,3P1-3P2,,,,,,0.0003,40.96,63.45
+177,HI 20-11,15.816956,yes,hydrogen,,,,,,,,,,
+10,OH,16.013,yes,special,,,,,,,,,,
+178,HI 10-8,16.209104,yes,hydrogen,,,,,,,,,,
+387,[CoIII],16.39,yes,fine_structure,,a4F5/2-a4F7/2,,,,,,0.03,17.08,33.5
+179,HI 15-10,16.411724,yes,hydrogen,,,,,,,,,,
+14,CH3,16.482,yes,special,,,,,,,,,,
+180,HI 19-11,16.594459,yes,hydrogen,,,,,,,,,,
+15,HI12-9+OH,16.859,yes,special,,,,,,,,,,
+181,HI 12-9,16.880628,yes,hydrogen,,,,,,,,,,
+289,"HD (0,0) R(6)",16.89381,,molecular,,"(0,0) R(6)",,,,1831.95,Ulivi et al. 1991,,,
+388,[CoI],16.925,yes,fine_structure,,a4F5/2-a4F7/2,,,,,,0.003,0.0,7.86
+290,"H2 (0,0) S(1)",17.03483,,molecular,,"(0,0) S(1)",,,,118.49,Jennings et al. 1987,,,
+182,HI 25-12,17.060008,yes,hydrogen,,,,,,,,,,
+37,H2O,17.103,,molecular,,12_58 to 11_29,3.7,3274.0,,,,,,
+38,H2O,17.225,,molecular,,11_39 to 10_010,1.0,2439.0,,,,,,
+39,H2O,17.358,,molecular,,11_29 to 10_110,0.9,2432.0,,,,,,
+183,HI 24-12,17.505843,yes,hydrogen,,,,,,,,,,
+184,HI 18-11,17.608246,yes,hydrogen,,,,,,,,,,
+11,OH,17.762,yes,special,,,,,,,,,,
+389,[PIII],17.885,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.005,19.77,30.2
+390,[FeII],17.93595,yes,fine_structure,,a4F7/2-a4F9/2,,,,,,9e-05,7.9,16.19
+185,HI 23-12,18.040112,yes,hydrogen,,,,,,,,,,
+391,[NiII],18.2405,yes,fine_structure,,4F3/2-4F5/2,,,,,,0.002,7.64,18.17
+392,[CoI],18.264,yes,fine_structure,,b4F5/2-b4F7/2,,,,,,0.003,0.0,7.86
+24,(Mg Fe)SiO3,18.5,no,special,Crystalline pyroxene,,,,,,,,,
+186,HI 14-10,18.615151,yes,hydrogen,,,,,,,,,,
+187,HI 22-12,18.690062,yes,hydrogen,,,,,,,,,,
+393,[SIII],18.713,yes,fine_structure,,3P2-3P1,,,,,,0.0002,23.34,34.79
+394,[CoII],18.804,yes,fine_structure,,a5F3-a5F4,,,,,,0.004,7.86,17.08
+188,HI 17-11,18.97823,yes,hydrogen,,,,,,,,,,
+189,HI 8-7,19.061898,yes,hydrogen,,,,,,,,,,
+291,p-H2O 5_51-4_04,19.23,,molecular,,5_51-4_04,,,,222.05,HITRAN,,,
+292,"HD (0,0) R(5)",19.431,,molecular,,"(0,0) R(5)",,,,1317.31,Ulivi et al. 1991,,,
+190,HI 21-12,19.495144,yes,hydrogen,,,,,,,,,,
+395,[ClIV],20.3107,yes,fine_structure,,3P1-3P0,,,,,,0.0021,39.61,53.46
+191,HI 20-12,20.51466,yes,hydrogen,,,,,,,,,,
+192,HI 16-11,20.920562,yes,hydrogen,,,,,,,,,,
+193,HI 25-13,21.119505,yes,hydrogen,,,,,,,,,,
+396,[NaIV],21.29,yes,fine_structure,,3P0-3P1,,,,,,0.06,71.62,98.91
+194,HI 24-13,21.807035,yes,hydrogen,,,,,,,,,,
+397,[ArIII],21.8302,yes,fine_structure,,3P0-3P1,,,,,,0.0003,27.63,40.74
+195,HI 19-12,21.841968,yes,hydrogen,,,,,,,,,,
+196,HI 13-10,22.331574,yes,hydrogen,,,,,,,,,,
+197,HI 11-9,22.340457,yes,hydrogen,,,,,,,,,,
+293,o-H2O 5_50-4_23,22.6391,,molecular,,5_50-4_23,,,,300.36,HITRAN,,,
+198,HI 23-13,22.642362,yes,hydrogen,,,,,,,,,,
+398,[FeIII],22.925,yes,fine_structure,,5D3-5D4,,,,,,0.002,16.19,30.65
+25,FeO,23.0,yes,special,Oxides,,,,,,,,,
+294,"HD (0,0) R(4)",23.03376,,molecular,,"(0,0) R(4)",,,,883.16,Ulivi et al. 1991,,,
+199,HI 18-12,23.632889,yes,hydrogen,,,,,,,,,,
+200,HI 22-13,23.675729,yes,hydrogen,,,,,,,,,,
+201,HI 15-11,23.868016,yes,hydrogen,,,,,,,,,,
+399,[FeI],24.04233,yes,fine_structure,,a5D3-a5D4,,,,,,6e-05,0.0,7.9
+400,[CoIII],24.07,yes,fine_structure,,a4F3/2-a4F5/2,,,,,,0.06,17.08,33.5
+401,[NeV],24.3175,yes,fine_structure,,3P1-3P0,,,,,,0.0003,97.12,126.21
+402,[FeII],24.51925,yes,fine_structure,,a4F5/2-a4F7/2,,,,,,0.00016,7.9,16.19
+295,OH 1/2-3/2 9/2-7/2,24.614,,molecular,,9/2-7/2,,,,201.93,Offer & van Dishoeck 1992,,,
+296,OH 1/2-3/2 9/2-7/2,24.642,,molecular,,9/2-7/2,,,,202.38,Offer & van Dishoeck 1992,,,
+403,[FI],24.7475,yes,fine_structure,,2P1/2-2P3/2,,,,,,0.0015,0.0,17.42
+404,[CoI],24.845,yes,fine_structure,,a4F3/2-a4F5/2,,,,,,0.006,0.0,7.86
+202,HI 21-13,24.982635,yes,hydrogen,,,,,,,,,,
+26,[SI],25.2,yes,special,Shocks,,,,,,,,,
+405,[SI],25.249,yes,fine_structure,,3P1-3P2,,,,,,0.0003,0.0,10.36
+406,[CoII],25.681,yes,fine_structure,,a5F2-a5F3,,,,,,0.007,7.86,17.08
+407,[FIV],25.83,yes,fine_structure,,3P2-3P1,,,,,,0.04,62.71,87.14
+408,[OIV],25.8903,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.0003,54.93,77.41
+409,[CoI],25.93,yes,fine_structure,,b4F3/2-b4F5/2,,,,,,0.007,0.0,7.86
+297,o-H2O 5_41-4_14,25.9402,,molecular,,5_41-4_14,,,,224.84,HITRAN,,,
+410,[FeII],25.98829,yes,fine_structure,,a6D7/2-a6D9/2,,,,,,0.00018,7.9,16.19
+203,HI 25-14,26.035185,yes,hydrogen,,,,,,,,,,
+204,HI 17-12,26.168218,yes,hydrogen,,,,,,,,,,
+205,HI 20-13,26.681889,yes,hydrogen,,,,,,,,,,
+206,HI 24-14,27.087993,yes,hydrogen,,,,,,,,,,
+27,Mg2SiO4,27.5,no,special,Crystalline silicates/heating,,,,,,,,,
+207,HI 9-8,27.803379,yes,hydrogen,,,,,,,,,,
+298,"H2 (0,0) S(0)",28.21883,,molecular,,"(0,0) S(0)",,,,0.0,Jennings et al. 1987,,,
+208,HI 23-14,28.388954,yes,hydrogen,,,,,,,,,,
+299,"HD (0,0) R(3)",28.50197,,molecular,,"(0,0) R(3)",,,,532.31,Ulivi et al. 1991,,,
+209,HI 14-11,28.83115,yes,hydrogen,,,,,,,,,,
+300,p-H2O 4_40-3_13,28.9138,,molecular,,4_40-3_13,,,,142.28,HITRAN,,,
+301,OH 1/2-3/2 7/2-5/2,28.939,,molecular,,7/2-5/2,,,,83.72,Offer & van Dishoeck 1992,,,
+302,OH 1/2-3/2 7/2-5/2,28.94,,molecular,,7/2-5/2,,,,83.92,Offer & van Dishoeck 1992,,,
+210,HI 19-13,28.971737,yes,hydrogen,,,,,,,,,,
+411,[FII],29.33,yes,fine_structure,,3P1-3P2,,,,,,0.04,17.42,34.97
+303,o-H2O 7_25-6_16,29.8363,,molecular,,7_25-6_16,,,,447.25,HITRAN,,,
+211,HI 12-10,29.8395,yes,hydrogen,,,,,,,,,,
+304,p-H2O 5_42-4_13,29.8849,,molecular,,5_42-4_13,,,,275.5,HITRAN,,,
+212,HI 16-12,30.010018,yes,hydrogen,,,,,,,,,,
+213,HI 22-14,30.032455,yes,hydrogen,,,,,,,,,,
+49,OH,30.277,,molecular,,3/2 R8.5f,14.3,2380.0,,,,,,
+50,OH,30.346,,molecular,,3/2 R8.5e,14.3,2380.0,,,,,,
+40,H2O,30.525,,molecular,,7_61 to 6_52,14.0,1750.0,,,,,,
+41,H2O,30.871,,molecular,,8_54 to 7_43,8.7,1806.0,,,,,,
+305,o-H2O 4_41-3_12,31.7715,,molecular,,4_41-3_12,,,,173.37,HITRAN,,,
+214,HI 25-15,32.054164,yes,hydrogen,,,,,,,,,,
+215,HI 21-14,32.166993,yes,hydrogen,,,,,,,,,,
+216,HI 18-13,32.209344,yes,hydrogen,,,,,,,,,,
+412,[PII],32.87,yes,fine_structure,,3P2-3P1,,,,,,0.03,10.48,19.77
+42,H2O,32.991,,molecular,,7_52 to 6_43,8.3,1525.0,,,,,,
+43,H2O,33.005,,molecular,,6_60 to 5_51,13.0,1504.0,,,,,,
+413,[FeIII],33.0384,yes,fine_structure,,5D2-5D3,,,,,,0.0066,16.19,30.65
+414,[ClII],33.281,yes,fine_structure,,3P0-3P1,,,,,,0.008,12.97,23.81
+415,[SIII],33.481,yes,fine_structure,,3P1-3P0,,,,,,0.0003,23.34,34.79
+217,HI 24-15,33.665091,yes,hydrogen,,,,,,,,,,
+307,OH 1/2-3/2 5/2--3/2+ 2-1,34.6034,,molecular,,5/2--3/2+ 2-1,,,,0.06,HITRAN,,,
+306,OH 1/2-3/2 5/2--3/2+ 3-2,34.6034,,molecular,,5/2--3/2+ 3-2,,,,0.06,HITRAN,,,
+309,OH 1/2-3/2 5/2+-3/2- 2-1,34.6293,,molecular,,5/2+-3/2- 2-1,,,,0.0,HITRAN,,,
+308,OH 1/2-3/2 5/2+-3/2- 3-2,34.6294,,molecular,,5/2+-3/2- 3-2,,,,0.0,HITRAN,,,
+416,[FeI],34.7133,yes,fine_structure,,a5D2-a5D3,,,,,,0.00012,0.0,7.9
+417,[SiII],34.8152,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.0005,8.15,16.35
+218,HI 20-14,35.040297,yes,hydrogen,,,,,,,,,,
+418,[FeII],35.34865,yes,fine_structure,,a6D5/2-a6D7/2,,,,,,0.00026,7.9,16.19
+219,HI 23-15,35.698216,yes,hydrogen,,,,,,,,,,
+419,[FeII],35.7774,yes,fine_structure,,a4F3/2-a4F5/2,,,,,,0.00037,7.9,16.19
+420,[NeIII],36.0135,yes,fine_structure,,3P0-3P1,,,,,,0.0003,40.96,63.45
+220,HI 15-12,36.470509,yes,hydrogen,,,,,,,,,,
+221,HI 17-13,37.109505,yes,hydrogen,,,,,,,,,,
+222,HI 22-15,38.336285,yes,hydrogen,,,,,,,,,,
+223,HI 13-11,38.842988,yes,hydrogen,,,,,,,,,,
+224,HI 10-9,38.869867,yes,hydrogen,,,,,,,,,,
+225,HI 19-14,39.098601,yes,hydrogen,,,,,,,,,,
+421,[CoII],39.274,yes,fine_structure,,a5F1-a5F2,,,,,,0.015,7.86,17.08
+226,HI 25-16,39.534436,yes,hydrogen,,,,,,,,,,
+227,HI 21-15,41.884108,yes,hydrogen,,,,,,,,,,
+228,HI 24-16,42.014036,yes,hydrogen,,,,,,,,,,
+422,[FIV],44.07,yes,fine_structure,,3P1-3P0,,,,,,0.21,62.71,87.14
+229,HI 23-16,45.228785,yes,hydrogen,,,,,,,,,,
+230,HI 18-14,45.234835,yes,hydrogen,,,,,,,,,,
+231,HI 16-13,45.340812,yes,hydrogen,,,,,,,,,,
+232,HI 20-15,46.890664,yes,hydrogen,,,,,,,,,,
+233,HI 25-17,49.014044,yes,hydrogen,,,,,,,,,,
+234,HI 14-12,49.487676,yes,hydrogen,,,,,,,,,,
+235,HI 22-16,49.548717,yes,hydrogen,,,,,,,,,,
+423,[FeII],51.30044,yes,fine_structure,,a6D3/2-a6D5/2,,,,,,0.00091,7.9,16.19
+424,[FeIII],51.68,yes,fine_structure,,5D1-5D2,,,,,,0.2,16.19,30.65
+425,[OIII],51.8145,yes,fine_structure,,3P2-3P1,,,,,,0.0005,35.12,54.93
+236,HI 11-10,52.534886,yes,hydrogen,,,,,,,,,,
+237,HI 24-17,52.883523,yes,hydrogen,,,,,,,,,,
+426,[FeI],54.31093,yes,fine_structure,,a5D1-a5D2,,,,,,0.00042,0.0,7.9
+238,HI 19-15,54.45437,yes,hydrogen,,,,,,,,,,
+239,HI 17-14,55.533222,yes,hydrogen,,,,,,,,,,
+240,HI 21-16,55.640211,yes,hydrogen,,,,,,,,,,
+427,[SI],56.311,yes,fine_structure,,3P0-3P1,,,,,,0.01,0.0,10.36
+428,[NIII],57.317,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.002,29.6,47.45
+241,HI 23-17,58.079682,yes,hydrogen,,,,,,,,,,
+429,[PII],60.64,yes,fine_structure,,3P1-3P0,,,,,,0.07,10.48,19.77
+242,HI 25-18,61.339538,yes,hydrogen,,,,,,,,,,
+243,HI 15-13,61.910324,yes,hydrogen,,,,,,,,,,
+430,[OI],63.183705,yes,fine_structure,,3P1-3P2,,,,,,2e-06,0.0,13.62
+44,H2O,63.323,,molecular,,8_18 to 7_07,1.7,1070.0,,,,,,
+244,HI 20-16,64.836477,yes,hydrogen,,,,,,,,,,
+245,HI 22-17,65.401928,yes,hydrogen,,,,,,,,,,
+246,HI 18-15,67.138907,yes,hydrogen,,,,,,,,,,
+431,[FII],67.2,yes,fine_structure,,3P0-3P1,,,,,,0.3,17.42,34.97
+247,HI 24-18,67.522564,yes,hydrogen,,,,,,,,,,
+432,[SiI],68.473,yes,fine_structure,,3P2-3P1,,,,,,0.004,0.0,8.15
+248,HI 12-11,69.071965,yes,hydrogen,,,,,,,,,,
+249,HI 23-18,76.230505,yes,hydrogen,,,,,,,,,,
+250,HI 16-14,76.247691,yes,hydrogen,,,,,,,,,,
+251,HI 21-17,76.449528,yes,hydrogen,,,,,,,,,,
+252,HI 25-19,77.922931,yes,hydrogen,,,,,,,,,,
+253,HI 19-16,80.249035,yes,hydrogen,,,,,,,,,,
+433,[FeII],87.3844,yes,fine_structure,,a6D1/2-a6D3/2,,,,,,0.0027,7.9,16.19
+254,HI 24-19,88.180634,yes,hydrogen,,,,,,,,,,
+434,[OIII],88.356,yes,fine_structure,,3P1-3P0,,,,,,0.0023,35.12,54.93
+255,HI 13-12,88.754631,yes,hydrogen,,,,,,,,,,
+435,[AlI],89.237,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.008,0.0,5.99
+256,HI 22-18,89.361895,yes,hydrogen,,,,,,,,,,
+257,HI 17-15,92.63654,yes,hydrogen,,,,,,,,,,
+258,HI 20-17,94.954779,yes,hydrogen,,,,,,,,,,
+259,HI 25-20,101.30701,yes,hydrogen,,,,,,,,,,
+260,HI 23-19,103.64195,yes,hydrogen,,,,,,,,,,
+436,[FeIII],105.37,yes,fine_structure,,5D0-5D1,,,,,,0.6,16.19,30.65
+437,[FeI],111.1828,yes,fine_structure,,a5D0-a5D1,,,,,,0.0018,0.0,7.9
+261,HI 18-16,111.21363,yes,hydrogen,,,,,,,,,,
+262,HI 21-18,111.34731,yes,hydrogen,,,,,,,,,,
+263,HI 14-13,111.85641,yes,hydrogen,,,,,,,,,,
+264,HI 24-20,119.35808,yes,hydrogen,,,,,,,,,,
+438,[NII],121.89757,yes,fine_structure,,3P2-3P1,,,,,,2e-05,14.53,29.6
+265,HI 22-19,129.5178,yes,hydrogen,,,,,,,,,,
+439,[SiI],129.68173,yes,fine_structure,,3P1-3P0,,,,,,3e-05,0.0,8.15
+266,HI 19-17,132.11573,yes,hydrogen,,,,,,,,,,
+267,HI 25-21,136.57864,yes,hydrogen,,,,,,,,,,
+268,HI 15-14,138.65084,yes,hydrogen,,,,,,,,,,
+440,[OI],145.525439,yes,fine_structure,,3P0-3P1,,,,,,7e-06,0.0,13.62
+269,HI 23-20,149.55742,yes,hydrogen,,,,,,,,,,
+270,HI 20-18,155.4796,yes,hydrogen,,,,,,,,,,
+441,[CII],157.7409,yes,fine_structure,,2P3/2-2P1/2,,,,,,0.0001,11.26,24.38
+271,HI 16-15,169.41144,yes,hydrogen,,,,,,,,,,
+272,HI 24-21,171.55735,yes,hydrogen,,,,,,,,,,
+273,HI 21-19,181.44199,yes,hydrogen,,,,,,,,,,
+274,HI 25-22,195.60876,yes,hydrogen,,,,,,,,,,
+442,[NII],205.17823,yes,fine_structure,,3P1-3P0,,,,,,2e-05,14.53,29.6

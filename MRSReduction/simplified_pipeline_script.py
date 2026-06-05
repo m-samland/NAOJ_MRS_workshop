@@ -77,7 +77,7 @@ def runmany(max_processes, func, file_list, *args, **kwargs):
 
 # directories
 source = 'SYCha'
-work_dir = f'../data/{source}/'
+work_dir = f'../data/{source}/' # Write the full path here! Not relative path!
 # Where the uncalibrated FITS files (for the science observation) are located.     Note: you can run the pipeline starting from rate files, by placing them in a work_dir+'stage1_004/' directory - in which case the definition of input_dir is not used.
 input_dir = work_dir+'/stage0/'
 # Where subdirectories corresponding to other processing stages will be created.
@@ -1119,7 +1119,7 @@ def main():
         outnames_ifua = []
         for s in range(len(suff)):
             sstring = os.path.join(spec2_dir, 'jw*_cal.fits')
-            calfiles = np.array(sorted(glob.glob(sstring)))
+            calfiles = np.array(sorted([os.path.abspath(f) for f in glob.glob(sstring)]))
 
             # Since do_bpc1 was deprecated and could only be False, we exclude '_bpc_' files
             calfiles = [calfiles[i] for i in range(
@@ -1138,7 +1138,7 @@ def main():
             outnames_ifua.append(outname_ifua)
             if bg_observation:
                 # These have to be the x1d files!!
-                bg_files = sorted(glob.glob(spec2_bgdir+'jw*x1d.fits'))
+                bg_files = [os.path.abspath(f) for f in sorted(glob.glob(spec2_bgdir+'jw*x1d.fits'))]
                 writel3asn(calfiles, asnfile, outname, bg_files=bg_files)
                 writel3asn(calfiles, asnfile_ifua,
                            outname_ifua, bg_files=bg_files)
